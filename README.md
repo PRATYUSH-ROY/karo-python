@@ -19,7 +19,7 @@ In this simulation it is made with python with the help of a module called `neat
 ## How to run this?
 - Clone this repository
 
-`git clone`
+`git clone https://github.com/PRATYUSH-ROY/karo-python/`
 
 - After that open this folder in a terminal.
 
