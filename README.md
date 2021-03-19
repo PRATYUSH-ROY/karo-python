@@ -10,9 +10,11 @@
 ###### In this situation the car is learning by its mistakes.
 
 ## Need
+In today's world its heavily required that the Machine Learning Model Should learn by its mistakes like we humans do...
 This type of learning is much more efficient than the earlier cars.
-These can be included in the real life cars. The car can be trained with static images and then after that, this could be used to learn and catch up with that training data. 
 
+## Solution
+Karo is a simulation software / program, Which shows that cars can be much efficient if it learns by itself. A real-life car can be trained with static images and then, this method could be used to learn and catch up with that training data.
 
 ## What is used to create this?
 In this simulation it is made with python with the help of a module called `neat-python`
