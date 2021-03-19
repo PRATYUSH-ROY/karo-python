@@ -18,16 +18,19 @@ In this simulation it is made with python with the help of a module called `neat
 
 ## How to run this?
 - Clone this repository
+
 `git clone`
-<br>
+
 - After that open this folder in a terminal.
+
 `cd karo-python`
-<br>
+
 - Install dependencies
+
 `pip install pygame neat-python`
-<br>
 
 - Run the main.py file
+
 `python main.py`
-<br>
+
 
