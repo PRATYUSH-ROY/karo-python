@@ -27,7 +27,7 @@ In this simulation it is made with python with the help of a module called `neat
 
 - Install dependencies
 
-`pip install pygame neat-python`
+`pip install pygame neat-python scipy`
 
 
 - Run the main.py file
