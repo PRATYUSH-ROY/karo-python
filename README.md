@@ -4,11 +4,12 @@
 
 
 
-## Why? and how will it help?
-###### Tesla's Automatic cars that is trained with particular images which means that they are unable to understand by itself. 
+## Gap or Problem?
+###### Automatic cars is trained with particular images which means that they are unable to understand by its mistakes. 
 
 ###### In this situation the car is learning by its mistakes.
 
+## Need
 This type of learning is much more efficient than the earlier cars.
 These can be included in the real life cars. The car can be trained with static images and then after that, this could be used to learn and catch up with that training data. 
 
