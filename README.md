@@ -5,16 +5,19 @@
 
 
 ## Gap or Problem?
-###### Automatic cars is trained with particular images which means that they are unable to understand by its mistakes. 
+###### An Automatic car is trained with particular images i.e. 10000 images altogether taken with 2 or 3 cameras attached to the front, middle and rear, which means that they are unable to understand from its mistakes because it has no form of learning by itself.
 
-###### In this situation the car is learning by its mistakes.
+###### Karo is learning by its mistakes.
 
 ## Need
-In today's world its heavily required that the Machine Learning Model Should learn by its mistakes like we humans do...
+In today's world its heavily required that the Machine Learning Model should learn from its mistakes like we humans do...
 This type of learning is much more efficient than the earlier cars.
 
 ## Solution
-Karo is a simulation software / program, Which shows that cars can be much efficient if it learns by itself. A real-life car can be trained with static images and then, this method could be used to learn and catch up with that training data.
+Karo is a simulation software / program, Which shows that cars can be more efficient if it learns by itself for example, if automated car crashes then we need to re-train the model so its not efficient as it takes time, effort and money but in Karo, the car is learning by itself if it crashes as we are using a more qualified version of Artificial Itelligence.
+
+## Impact
+So the it will avoid accidents and will be more smooth journey. It will also take less time.
 
 ## What is used to create this?
 In this simulation it is made with python with the help of a module called `neat-python`
