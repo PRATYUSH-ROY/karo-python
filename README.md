@@ -17,7 +17,7 @@ This type of learning is much more efficient than the earlier cars.
 Karo is a simulation software / program, Which shows that cars can be more efficient if it learns by itself for example, if automated car crashes then we need to re-train the model so its not efficient as it takes time, effort and money but in Karo, the car is learning by itself if it crashes as we are using a more qualified version of Artificial Itelligence.
 
 ## Impact
-So the it will avoid accidents and will be more smooth journey. It will also take less time.
+So it will avoid accidents and will be more smooth journey. It will also take less time.
 
 ## What is used to create this?
 In this simulation it is made with python with the help of a module called `neat-python`
